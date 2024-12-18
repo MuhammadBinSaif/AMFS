@@ -1,0 +1,482 @@
+[
+  {
+    "id": 80,
+    "bid": 0.077200586,
+    "size": 93.01,
+    "waitTime": 2,
+    "processed": true,
+    "priorityScore": 0.7039368161725668
+  },
+  {
+    "id": 22,
+    "bid": 0.0000677,
+    "size": 13.1,
+    "waitTime": 1,
+    "processed": true,
+    "priorityScore": 0.10109771210138262
+  },
+  {
+    "id": 90,
+    "bid": 0.074951024,
+    "size": 89.48,
+    "waitTime": 5,
+    "processed": true,
+    "priorityScore": 0.7188712824948224
+  },
+  {
+    "id": 79,
+    "bid": 0.078009308,
+    "size": 108.23,
+    "waitTime": 0,
+    "processed": true,
+    "priorityScore": 0.7322270219435411
+  },
+  {
+    "id": 4,
+    "bid": 0.000078684,
+    "size": 19.19,
+    "waitTime": 1,
+    "processed": true,
+    "priorityScore": 0.1792070856626392
+  },
+  {
+    "id": 20,
+    "bid": 0.000037927,
+    "size": 11.03,
+    "waitTime": 4,
+    "processed": true,
+    "priorityScore": 0.23345386108129584
+  },
+  {
+    "id": 9,
+    "bid": 0.000082463,
+    "size": 11.06,
+    "waitTime": 3,
+    "processed": true,
+    "priorityScore": 0.1858699347028004
+  },
+  {
+    "id": 61,
+    "bid": 0.033907512,
+    "size": 101.96,
+    "waitTime": 0,
+    "processed": true,
+    "priorityScore": 0.7154307558929773
+  },
+  {
+    "id": 68,
+    "bid": 0.01911183,
+    "size": 110.95,
+    "waitTime": 1,
+    "processed": true,
+    "priorityScore": 0.7196585134912991
+  },
+  {
+    "id": 70,
+    "bid": 0.081298451,
+    "size": 89.74,
+    "waitTime": 5,
+    "processed": true,
+    "priorityScore": 0.7538998604653426
+  },
+  {
+    "id": 2,
+    "bid": 0.000056327,
+    "size": 14.08,
+    "waitTime": 3,
+    "processed": true,
+    "priorityScore": 0.20744467354771065
+  },
+  {
+    "id": 84,
+    "bid": 0.04489827,
+    "size": 108.3,
+    "waitTime": 2,
+    "processed": true,
+    "priorityScore": 0.7286096927472905
+  },
+  {
+    "id": 29,
+    "bid": 0.000022305,
+    "size": 10.94,
+    "waitTime": 5,
+    "processed": true,
+    "priorityScore": 0.3476466896706996
+  },
+  {
+    "id": 65,
+    "bid": 0.01675219,
+    "size": 95.67,
+    "waitTime": 5,
+    "processed": true,
+    "priorityScore": 0.7806295518227346
+  },
+  {
+    "id": 28,
+    "bid": 0.000086933,
+    "size": 12.12,
+    "waitTime": 5,
+    "processed": true,
+    "priorityScore": 0.35366733027059
+  },
+  {
+    "id": 8,
+    "bid": 0.000020504,
+    "size": 19.41,
+    "waitTime": 4,
+    "processed": true,
+    "priorityScore": 0.3344315090233682
+  },
+  {
+    "id": 25,
+    "bid": 0.000037838,
+    "size": 16.15,
+    "waitTime": 6,
+    "processed": true,
+    "priorityScore": 0.4372218339529011
+  },
+  {
+    "id": 17,
+    "bid": 0.000080187,
+    "size": 12.54,
+    "waitTime": 5,
+    "processed": true,
+    "priorityScore": 0.3512844547554647
+  },
+  {
+    "id": 89,
+    "bid": 0.047647233,
+    "size": 82.46,
+    "waitTime": 6,
+    "processed": true,
+    "priorityScore": 0.7446570184753324
+  },
+  {
+    "id": 81,
+    "bid": 0.053984255,
+    "size": 116.77,
+    "waitTime": 2,
+    "processed": true,
+    "priorityScore": 0.7474364021258509
+  },
+  {
+    "id": 3,
+    "bid": 0.000076628,
+    "size": 14.86,
+    "waitTime": 5,
+    "processed": true,
+    "priorityScore": 0.37080391561145604
+  },
+  {
+    "id": 72,
+    "bid": 0.045135566,
+    "size": 106.05,
+    "waitTime": 4,
+    "processed": true,
+    "priorityScore": 0.7779416863108004
+  },
+  {
+    "id": 83,
+    "bid": 0.055851714,
+    "size": 93.27,
+    "waitTime": 6,
+    "processed": true,
+    "priorityScore": 0.7987513051729103
+  },
+  {
+    "id": 27,
+    "bid": 0.000035305,
+    "size": 11.3,
+    "waitTime": 6,
+    "processed": true,
+    "priorityScore": 0.42007885135868234
+  },
+  {
+    "id": 64,
+    "bid": 0.006572823,
+    "size": 95.79,
+    "waitTime": 6,
+    "processed": true,
+    "priorityScore": 0.8096113813652457
+  },
+  {
+    "id": 23,
+    "bid": 0.00008905,
+    "size": 18.05,
+    "waitTime": 7,
+    "processed": true,
+    "priorityScore": 0.4486680179599733
+  },
+  {
+    "id": 77,
+    "bid": 0.079421093,
+    "size": 77.6,
+    "waitTime": 9,
+    "processed": true,
+    "priorityScore": 0.767685162393188
+  },
+  {
+    "id": 5,
+    "bid": 0.000018772,
+    "size": 21.89,
+    "waitTime": 6,
+    "processed": true,
+    "priorityScore": 0.46578540756672093
+  },
+  {
+    "id": 15,
+    "bid": 0.000089328,
+    "size": 12.96,
+    "waitTime": 4,
+    "processed": true,
+    "priorityScore": 0.30496094840407806
+  },
+  {
+    "id": 76,
+    "bid": 0.008035594,
+    "size": 100.22,
+    "waitTime": 6,
+    "processed": true,
+    "priorityScore": 0.7793301351878928
+  },
+  {
+    "id": 21,
+    "bid": 0.000012643,
+    "size": 16.12,
+    "waitTime": 8,
+    "processed": true,
+    "priorityScore": 0.4678567247698655
+  },
+  {
+    "id": 30,
+    "bid": 0.000026287,
+    "size": 18.06,
+    "waitTime": 8,
+    "processed": true,
+    "priorityScore": 0.47564662754458614
+  },
+  {
+    "id": 69,
+    "bid": 0.065782904,
+    "size": 104.74,
+    "waitTime": 6,
+    "processed": true,
+    "priorityScore": 0.762125156587687
+  },
+  {
+    "id": 78,
+    "bid": 0.080794346,
+    "size": 82.58,
+    "waitTime": 10,
+    "processed": true,
+    "priorityScore": 0.6869425773504028
+  },
+  {
+    "id": 67,
+    "bid": 0.085906693,
+    "size": 80.29,
+    "waitTime": 11,
+    "processed": true,
+    "priorityScore": 0.6779141254761998
+  },
+  {
+    "id": 1,
+    "bid": 0.000042526,
+    "size": 19.97,
+    "waitTime": 9,
+    "processed": true,
+    "priorityScore": 0.4329247177764844
+  },
+  {
+    "id": 26,
+    "bid": 0.000068745,
+    "size": 15.35,
+    "waitTime": 9,
+    "processed": true,
+    "priorityScore": 0.3639839746757918
+  },
+  {
+    "id": 86,
+    "bid": 0.013839075,
+    "size": 80.28,
+    "waitTime": 12,
+    "processed": true,
+    "priorityScore": 0.6251379313187142
+  },
+  {
+    "id": 10,
+    "bid": 0.000063874,
+    "size": 19.68,
+    "waitTime": 9,
+    "processed": true,
+    "priorityScore": 0.38136956723291304
+  },
+  {
+    "id": 75,
+    "bid": 0.051716516,
+    "size": 99.03,
+    "waitTime": 8,
+    "processed": true,
+    "priorityScore": 0.7016549299359349
+  },
+  {
+    "id": 88,
+    "bid": 0.068387624,
+    "size": 78.5,
+    "waitTime": 13,
+    "processed": true,
+    "priorityScore": 0.5693741075345461
+  },
+  {
+    "id": 7,
+    "bid": 0.000021961,
+    "size": 16.61,
+    "waitTime": 9,
+    "processed": true,
+    "priorityScore": 0.3186501443119476
+  },
+  {
+    "id": 24,
+    "bid": 0.000078292,
+    "size": 17.41,
+    "waitTime": 9,
+    "processed": true,
+    "priorityScore": 0.321864124943731
+  },
+  {
+    "id": 85,
+    "bid": 0.060267332,
+    "size": 118.95,
+    "waitTime": 6,
+    "processed": true,
+    "priorityScore": 0.7315241602853468
+  },
+  {
+    "id": 87,
+    "bid": 0.002021985,
+    "size": 90.5,
+    "waitTime": 13,
+    "processed": true,
+    "priorityScore": 0.5650057896300975
+  },
+  {
+    "id": 66,
+    "bid": 0.055338761,
+    "size": 83.64,
+    "waitTime": 14,
+    "processed": true,
+    "priorityScore": 0.5391961937902897
+  },
+  {
+    "id": 71,
+    "bid": 0.033324222,
+    "size": 98.4,
+    "waitTime": 11,
+    "processed": true,
+    "priorityScore": 0.5977441176553935
+  },
+  {
+    "id": 12,
+    "bid": 0.000073134,
+    "size": 11.88,
+    "waitTime": 3,
+    "processed": true,
+    "priorityScore": 0.20919377344398504
+  },
+  {
+    "id": 13,
+    "bid": 0.000010827,
+    "size": 20.14,
+    "waitTime": 9,
+    "processed": true,
+    "priorityScore": 0.23204050228291076
+  },
+  {
+    "id": 63,
+    "bid": 0.011165792,
+    "size": 118.49,
+    "waitTime": 8,
+    "processed": true,
+    "priorityScore": 0.6272968548692727
+  },
+  {
+    "id": 19,
+    "bid": 0.000053787,
+    "size": 13.49,
+    "waitTime": 9,
+    "processed": true,
+    "priorityScore": 0.2053409197007704
+  },
+  {
+    "id": 74,
+    "bid": 0.042115177,
+    "size": 88.54,
+    "waitTime": 16,
+    "processed": true,
+    "priorityScore": 0.508048951388222
+  },
+  {
+    "id": 62,
+    "bid": 0.072513733,
+    "size": 79.09,
+    "waitTime": 16,
+    "processed": true,
+    "priorityScore": 0.4207029785700358
+  },
+  {
+    "id": 73,
+    "bid": 0.012084384,
+    "size": 106.55,
+    "waitTime": 13,
+    "processed": true,
+    "priorityScore": 0.5289939894886505
+  },
+  {
+    "id": 11,
+    "bid": 0.000013141,
+    "size": 11.12,
+    "waitTime": 9,
+    "processed": true,
+    "priorityScore": 0.14543216749584803
+  },
+  {
+    "id": 14,
+    "bid": 0.000045232,
+    "size": 22.54,
+    "waitTime": 10,
+    "processed": true,
+    "priorityScore": 0.1912866241630113
+  },
+  {
+    "id": 6,
+    "bid": 0.00003329,
+    "size": 21.8,
+    "waitTime": 10,
+    "processed": true,
+    "priorityScore": 0.13792355733667175
+  },
+  {
+    "id": 82,
+    "bid": 0.074251618,
+    "size": 114.51,
+    "waitTime": 13,
+    "processed": true,
+    "priorityScore": 0.5125859288827143
+  },
+  {
+    "id": 18,
+    "bid": 0.000033404,
+    "size": 17.65,
+    "waitTime": 8,
+    "processed": true,
+    "priorityScore": 0.07086910190044153
+  },
+  {
+    "id": 16,
+    "bid": 0.000024531,
+    "size": 20.88,
+    "waitTime": 10,
+    "processed": true,
+    "priorityScore": 0.08383786076493233
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "alpha": 0.3044516089407266,
+  "beta": 0.20504781026382637,
+  "gamma": 0.4905005807954471,
+  "lambdaBid": 0.5,
+  "lambdaWait": 0.9,
+  "lambdaUtilization": 0.7,
+  "maxUtilization": 128,
+  "currentSize": 1162.9900000000002,
+  "lastUpdated": "2024-12-14T15:07:07.961Z"
+}
